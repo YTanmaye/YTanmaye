@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Y. Tanmaye</h1>
-<h3 align="center">A hardworking learner passionate about coding, creativity, and constant growth 🚀</h3>
+<h3 align="center"> A Computer science student(CSA).A hardworking learner passionate about coding, creativity, and constant growth 🚀</h3>
 
 ---
 
