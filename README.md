@@ -19,12 +19,12 @@ I’m the kind of person who likes to give my best in everything I do. I enjoy l
 
 ---
 
-## 💻 Languages & Tools
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+<h3 align="center">💻 Languages & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,java,cpp,figma,vscode,python,github" alt="Skills" height="40" />
+</p>
+
 
 ---
 
@@ -47,3 +47,5 @@ I’m the kind of person who likes to give my best in everything I do. I enjoy l
 ## 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/yTanmaye)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tanmaye-goud-354533328)
+
