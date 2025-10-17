@@ -46,6 +46,6 @@ I’m the kind of person who likes to give my best in everything I do. I enjoy l
 
 ## 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/yTanmaye)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tanmaye-goud-354533328)
 
